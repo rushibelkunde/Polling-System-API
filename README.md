@@ -1,7 +1,8 @@
 # Polling-System-API
+This is the Polling-System-API using ExpressJS and MongoDB, in which we can create question, options add votes to an option , delete quetions and options.
 
 
-## steps to get this project
+## Steps to get this project
 
 ```bash
 git clone https://github.com/rushibelkunde/Polling-System-API.git
